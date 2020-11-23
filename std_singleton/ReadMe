@@ -2,7 +2,7 @@
 	싱글톤 패턴에 대해 이해한다.
 
 2. 정의
-	singleton pattern이란?
+	singleton pattern이란? 단 하나의 객체만을 생성하도록 강제하는 디자인 패턴
 	
 3. 배경지식
 	메모리 영역에는 4가지(code, data, stack, heap)가 있다.
